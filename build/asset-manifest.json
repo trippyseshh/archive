@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/archivefinder/static/css/main.5bee5e96.css",
+    "main.js": "/archivefinder/static/js/main.8e5d0dd4.js",
+    "static/js/787.56374929.chunk.js": "/archivefinder/static/js/787.56374929.chunk.js",
+    "static/media/loading.gif": "/archivefinder/static/media/loading.d723ee4866c5d839b7f4.gif",
+    "index.html": "/archivefinder/index.html",
+    "main.5bee5e96.css.map": "/archivefinder/static/css/main.5bee5e96.css.map",
+    "main.8e5d0dd4.js.map": "/archivefinder/static/js/main.8e5d0dd4.js.map",
+    "787.56374929.chunk.js.map": "/archivefinder/static/js/787.56374929.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bee5e96.css",
+    "static/js/main.8e5d0dd4.js"
+  ]
+}
